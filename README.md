@@ -1,2 +1,2 @@
-# curso-ebac-frontend
-Repositório para exercício do curso da Ebac
+# Curso Front-End da Eback
+### Repositório para exercício do curso da Ebac
