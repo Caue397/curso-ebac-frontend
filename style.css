@@ -68,6 +68,7 @@ section h2,
     padding: 8px;
     display: inline-block;
     text-decoration: none;
+    margin-top: 16px;
     transition: 0.3s;
 }
 
@@ -109,4 +110,30 @@ section h2 {
 #economy .articles article a:hover {
     background-color: transparent;
     color: #ff9f1a;
+}
+
+#games {
+    background-color: #C1DFF0;
+}
+
+#games .articles article a {
+    background-color: #157598;
+}
+
+#games .articles article a:hover {
+    background-color: transparent;
+    color: #157598;
+}
+
+#cars {
+    background-color: #FF7674;
+}
+
+#cars .articles article a {
+    background-color: #9A2D2B;
+}
+
+#cars .articles article a:hover {
+    background-color: transparent;
+    color: #9A2D2B;
 }
